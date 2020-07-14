@@ -15,10 +15,10 @@
 
             {
 
-              "objectid":0001,
-              "street":Urbanizacion Los Sauces,
-              "city":Piura,
-              "state":Peru,
+              "objectid":"0001",
+              "street":"Urbanizacion Los Sauces",
+              "city":"Piura",
+              "state":"Peru",
             }
           ]
 
@@ -26,7 +26,7 @@
 
         }
 
-      ],!--termina owner
+      ],
       "contacts":[
 
         {
