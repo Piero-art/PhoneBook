@@ -1,0 +1,94 @@
+{
+
+
+      "objectid":"01",
+      "owner":[
+
+        {
+
+          "objectid":"001",
+          "phone":"920185679",
+          "name":"Piero",
+          "title":"Piero unp",
+          "age":"19",
+          "address":[
+
+            {
+
+              "objectid":0001,
+              "street":Urbanizacion Los Sauces,
+              "city":Piura,
+              "state":Peru,
+            }
+          ]
+
+
+
+        }
+
+      ],!--termina owner
+      "contacts":[
+
+        {
+
+          "objectid":"sdas",
+          "phone":"sdsd",
+          "name":"sdsad",
+          "title":"sdsd",
+          "age":"sdsd",
+          "address":[
+
+            {
+
+              "objectid":"sdsd",
+              "street":"sdsd",
+              "city":"sdasd",
+              "state":"sdsd",
+            }
+          ]
+
+        }
+
+        {
+
+          "objectid":"sdsad",
+          "phone":"sdasd",
+          "name":"sdsad",
+          "title":"asdsad",
+          "age":"asdsd",
+          "address":[
+
+            {
+
+              "objectid":"sdasd",
+              "street":"asdsd",
+              "city":"asdsad",
+              "state":"asdsd",
+            }
+          ]
+
+        }
+
+        {
+
+          "objectid":"asdsad",
+          "phone":"asdasd",
+          "name":"asdsd",
+          "title":"asdasds",
+          "age":"asdsad",
+          "address":[
+
+            {
+
+              "objectid":"asdsd",
+              "street":"sadsad",
+              "city":"asdasd",
+              "state":"sdsad",
+            }
+          ]
+
+        }
+
+      ]
+
+    }
